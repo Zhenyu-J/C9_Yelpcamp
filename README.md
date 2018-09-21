@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [http://bit.ly/Yelp-camp](http://bit.ly/Yelp-camp)
+To see the app in action, go to [http://bit.ly/JennaCamp](http://bit.ly/JennaCamp)
 
 ## Features
 
