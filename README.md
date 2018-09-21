@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
+To see the app in action, go to [http://bit.ly/Yelp-camp](http://bit.ly/Yelp-camp)
 
 ## Features
 
@@ -62,7 +62,7 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/Zhenyu-J/C9_Yelpcamp.git
 ```
 
 ### Install dependencies
